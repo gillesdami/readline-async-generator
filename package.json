@@ -1,0 +1,22 @@
+{
+  "name": "readline-async-generator",
+  "version": "1.0.0",
+  "description": "ES8 async generator for nodejs readline on stdin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gillesdami/readline-async-generator.git"
+  },
+  "keywords": [
+    "stdin",
+    "readline",
+    "async",
+    "generator"
+  ],
+  "author": "Damien GILLES",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gillesdami/readline-async-generator/issues"
+  },
+  "homepage": "https://github.com/gillesdami/readline-async-generator#readme"
+}
